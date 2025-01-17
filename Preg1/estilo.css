@@ -1,0 +1,42 @@
+footer {
+    background-color: red;
+    color: white;
+    align-items: center;
+    padding-top: 15px;
+    padding-left: 45%;
+    padding-bottom: 15px;
+}
+
+input {
+    border-radius: 15%;
+    border-style: solid;
+}
+
+#padreJugadasJuego {
+    display: flex;
+}
+
+#inputTablero{
+    padding: 5%;
+}
+
+#tablero{
+    padding: 5%;
+}
+
+#parteMarron{
+    background-color: burlywood;
+}
+
+#parteBeige{
+    background-color: beige;
+}
+
+img{
+    width: 115px;
+    height: 115px;
+}
+
+#vacio{
+    padding: 50px;
+}
