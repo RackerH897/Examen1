@@ -15,7 +15,10 @@ h1 {
 input {
     border-radius: 15%;
     border-style: solid;
-    width: 250px;
+    border-radius: 0px;
+    border-width: 3px;
+    border-color: black;
+    width: 280px;
 }
 
 img{
@@ -24,7 +27,11 @@ img{
 }
 
 #botonJugar{
-    width: 250px;
+    width: 280px;
+    background-color: white;
+    border-radius: 10px;
+    padding-top: 5px;
+    padding-bottom: 5px;
 }
 
 #padreJugadasJuego {
