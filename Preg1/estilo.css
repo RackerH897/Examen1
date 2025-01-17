@@ -2,14 +2,29 @@ footer {
     background-color: red;
     color: white;
     align-items: center;
-    padding-top: 15px;
+    padding-top: 30px;
     padding-left: 45%;
-    padding-bottom: 15px;
+    padding-bottom: 30px;
+}
+
+h1 {
+    padding-left: 2%;
+    padding-top: 2%;
 }
 
 input {
     border-radius: 15%;
     border-style: solid;
+    width: 250px;
+}
+
+img{
+    width: 45px;
+    height: 75px;
+}
+
+#botonJugar{
+    width: 250px;
 }
 
 #padreJugadasJuego {
@@ -32,11 +47,12 @@ input {
     background-color: beige;
 }
 
-img{
-    width: 115px;
-    height: 115px;
+#vacio{
+    padding: 25px;
 }
 
-#vacio{
-    padding: 50px;
+#divFooter{
+    padding-left: 5%;
+    padding-right: 5%;
+    padding-bottom: 2%;
 }
